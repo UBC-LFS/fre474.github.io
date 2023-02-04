@@ -244,7 +244,11 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 <div class="cell-output cell-output-stderr">
 <pre><code>
-To aggregate several columns with one summary: take(mtcars, mpg, hp, fun = mean, by = am)</code></pre>
+Use magrittr pipe '%&gt;%' to chain several operations:
+             mtcars %&gt;%
+                 let(mpg_hp = mpg/hp) %&gt;%
+                 take(mean(mpg_hp), by = am)
+        </code></pre>
 </div>
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="co">#generate a dataset with four observations</span></span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>df1 <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">id=</span><span class="fu">c</span>(<span class="dv">1</span><span class="sc">:</span><span class="dv">4</span>))</span>
