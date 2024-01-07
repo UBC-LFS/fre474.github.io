@@ -1,5 +1,6 @@
 ---
 title: "FRE 474 Website"
+subtitle: "Winter Session 2023/24 Term 2"
 ---
 
 Tuesday and Thursday, 10:30am-12pm, Frank Forward 519
