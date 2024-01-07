@@ -1,0 +1,216 @@
+---
+title: "Syllabus"
+format: html
+editor: visual
+---
+
+## Acknowledgement
+
+UBC's Point Grey Campus is located on the traditional, ancestral, and unceded territory of the (Musqueam) people. The land it is situated on has always been a place of learning for the Musqueam people, who for millennia have passed on their culture, history, and traditions from one generation to the next on this site.
+
+## Course Information
+
+|                                                                    |                        |                    |                  |
+|--------------------------------------------------------------------|------------------------|--------------------|------------------|
+| **Course Title**                                                   | **Course Code Number** | **Days and Times** | **Credit Value** |
+| Causal Inference in the Economics of Natural Resource Conservation | FRE 474                | TTh 10:30am-12pm   | 3                |
+
+## Description
+
+In this course we will learn how researchers use data to examine the economics of natural resource use. You will learn how one can 'infer' (in the statistical sense) the human (economic) 'cause' of natural resource use.
+
+I will introduce empirical methods necessary to evaluate the causal impact of economic development and environmental policies on conservation outcomes, and subsequently illustrate the use of these techniques through in-class exercises and academic articles in the field of conservation.
+
+We will focus on issues related to forests and wildlife. We will consider questions like: What are the drivers of species loss, and which environmental policies have been successful in halting it? Is there a trade-off between poverty alleviation and the conservation of charismatic species, coral reef, and/or tropical rainforests? Does endangered species legislation impact species conservation and employment?
+
+## Prerequisites
+
+One of LFS 252, STAT 300, BIOL 300, ECON 326, COMM 291, ECON 101 or 310, or permission of the instructor.
+
+Students from a diversity of backgrounds are welcome, but knowledge of 1) statistics/econometrics, specifically regression analysis and 2) the theory of environmental economics is important for your success.
+
+## Course Instructor Biographical Statement
+
+I am a Professor in Environmental and Resource Economics at the University of British Columbia. Among other things, I study the cost of conflict with wildlife to farmers living in proximity of wildlife reserves in India. This includes direct damages from conflict: lost crops and livestock, human injury and death. My projects in the economics of conservation are listed at [the Wildlife and Conservation Economics Laboratory](http://wildconsecon.landfood.ubc.ca/).
+
+## Other Instructional Staff
+
+You will also interact with your TA, Erin Litzow, who will help you with course material, with coding, and data issues, especially for quizzes, assignments, and grading.
+
+## Course Structure
+
+This is a course that requires you to read and interpret academic literature evaluating the impact of human activity and policy on forest and wildlife conservation. You will learn through course lectures, assignments/reports, quizzes/exams, and your empirical project. All assignments and exams play an important part in the learning of the topics presented. All students will submit a final project, where they will employ either STATA or R to implement one of the causal techniques they learn in class using a pre-compiled dataset provided to them.
+
+## Schedule of Topics
+
+Wherever possible I provide a stable link to the paper in the schedule section of the website. While some of these links will work anywhere, many of them are digitally protected requiring a subscription. You can access this material by logging in through your account at the UBC library, or on any computer connected via Ethernet on the UBC network. For some articles I do not provide a link, in that case, please search for the article (if you search via the UBC library you will find access to its electronic version).
+
+### Section 1: Introduction
+
+1.  Economics and Conservation
+
+    -   Metrick, A., and Weitzman, M. L. (1998). Conflicts and choices in biodiversity preservation. Journal of Economic Perspectives, 12(3), 21-34.
+
+2.  The Economics of Species at Risk Legislation in Canada and The USA.
+
+    -   Adamowicz, W. L. (2016). Economic analysis and species at risk: Lessons learned and future challenges. Canadian Journal of Agricultural Economics/Revue canadienne d'agroeconomie, 64(1), 21-32.
+
+    -   Ando, Amy W, and Christian Langpap. (2018). The Economics of Species Conservation. Annual Review of Resource Economics.
+
+    -   Langpap, C., Kerkvliet, J., & Shogren, J. F. (2018). The economics of the US Endangered Species Act: A review of recent developments. Review of Environmental Economics and Policy, 12(1), 69-91.
+
+3.  Counterfactual Thinking.
+
+    -   Ferraro, P. J. (2009). Counterfactual thinking and impact evaluation in environmental policy. New directions for evaluation, 2009(122), 75-84.
+
+### Section 2: Forests, Species and their interaction with International Trade and Economic Development
+
+1.  The Economics of Forest Conservation.
+
+    -   Foster, A.D. and Rosenzweig, M.R., 2003. Economic growth and the rise of forests. The Quarterly Journal of Economics, 118(2), pp.601-637.
+
+    -   Baland, J.M., Libois, F. and Mookherjee, D., 2018. Forest Degradation and Economic Growth in Nepal, 2003-2010. Journal of the Association of Environmental and Resource Economists, 5(2), pp.401-439
+
+    -   Assuncao, J., Lipscomb, M., Mobarak, A.M. and Szerman, D., 2017. Agricultural Productivity and Deforestation in Brazil. Working Paper
+
+    -   Abman and Lundberg 2019 Does Free Trade Increase Deforestation? The Effects of Regional Trade Agreements. Working Paper.
+
+2.  Economic Development and Trade and its impact on Species Loss and Extraction.
+
+    -   Naidoo, R., and Adamowicz, W. L. (2001). Effects of economic prosperity on numbers of threatened species. Conservation Biology, 15(4), 1021-1029.
+
+    -   Eisenbarth, S. 2019. Do exports of renewable resources lead to resource depletion? Evidence from fisheries. *Journal of Environmental Economics and Management*, 112, 102603.
+
+### Section 3: Conservation Policy and the Value of Species Preservation
+
+1.  Overview
+
+    -   Miteva, Daniela A, Subhrendu K Pattanayak, and Paul J Ferraro. 2012. Evaluation of biodiversity policy instruments: what works and what doesn't? Oxford Review of Economic Policy 28 (1): 69--92.
+
+2.  Evaluating Endangered Species Legislation
+
+    -   Ferraro, P. J., McIntosh, C., and Ospina, M. (2007). The effectiveness of the US endangered species act: An econometric analysis using matching methods. Journal of Environmental Economics and Management, 54(3), 245-261.
+
+    -   Boskovic, Branko, and Linda Nostbakken. 2017. The cost of endangered species protection: Evidence from auctions for natural resources. Journal of environmental economics and management 81:174-192.
+
+    -   Frank, E., (2020), The Impact of the Northern Spotted Owl Conservation Plan on Local Labor Markets, working paper.
+
+3.  Valuing a Species
+
+    -   Manning, D.T., & Ando, A. (2022). Ecosystem Services and Land Rental Markets: Producer Costs of Bat Population Crashes. *Journal of the Association of Environmental and Resource Economists*, 9(6), 1235-1277.
+
+    -   Li, L., & Ando, A. (2022). The impact of bison reintroduction on local economies. *Agricultural and Resource Economics Review,* 51(3), 455-472.
+
+4.  Economic Development and Protected Areas.
+
+    -   Andam, Kwaw S, Paul J Ferraro, Katharine R E Sims, Andrew Healy, and Margaret B Holland. 2010. Protected areas reduced poverty in Costa Rica and Thailand. Proceedings of the National Academy of Sciences of the United States of America 107 (22): 9996--10001.
+
+    -   Burgess, R., Costa, F. J., and Olken, B. A. (2018). Wilderness Conservation and the Reach of the State: Evidence from National Borders in the Amazon (No. w24861). National Bureau of Economic Research
+
+5.  International Issues.
+
+    -   Noack, F., Larsen, A., Kamp, J., and Levers, C. (2021). A bird's eye view of farm size and biodiversity: The ecological legacy of the iron curtain. American Journal of Agricultural Economics.
+
+    -   Hsiang, S., and Sekar, N. (2016). Does legalization reduce black market activity? Evidence from a global ivory experiment and elephant poaching data (No. w22314). National Bureau of Economic Research.
+
+6.  Property Rights.
+
+    -   Isaksen, E.T. and Richter, A., 2019. Tragedy, property rights, and the commons: investigating the causal relationship from institutions to ecosystem collapse. Journal of the Association of Environmental and Resource Economists.
+
+    -   Costello, C., Gaines, S. D., and Lynham, J. (2008). Can catch shares prevent fisheries collapse?. Science, 321(5896), 1678-1681.
+
+### Section T: Econometrics
+
+The econometrics section follows this book: Angrist, J.D. and Pischke, J.S., 2014. Mastering 'metrics: The path from cause to effect. Princeton University Press.
+
+Before each Topic Section above, I will cover the relevant econometric technique from the above book. We will cover chapters 1-5 in the textbook.
+
+## Learning Outcomes
+
+At the end of this course you will have a better understanding of what makes a careful causal analysis, and what might be spurious correlation.
+
+Specifically, I will help you,
+
+-   Understand 5 main econometric tools commonly used to determine cause and effect in data analysis. These are:
+
+    -   Random Assignment
+
+    -   Regression Analysis.
+
+    -   Instrumental Variables.
+
+    -   Difference in Difference.
+
+    -   Regression Discontinuity.
+
+-   Recognize the economic factors underlying common conservation issues.
+
+## Learning Activities
+
+In-class lectures.
+
+Active participation in class through the means available.
+
+Assignments, data analysis.
+
+## Learning Materials
+
+**Required Book**: Angrist, J.D. and Pischke, J.S., 2014. Mastering 'metrics: The path from cause to effect. Princeton University Press. Available at the UBC Bookstore, and online.
+
+Other books:
+
+1.  Huntington-Klein, N. (2021). The effect: An introduction to research design and causality. Available online at: <https://theeffectbook.net/>.
+
+2.  Cunningham, S. (2021). Causal Inference. Yale University Press, also available online at: <https://mixtape.scunning.com/>.
+
+The majority of course materials will be posted on this website: fre474.landfood.ubc.ca. You will submit assignments via [Canvas](http://www.canvas.ubc.ca). You are required to regularly check the course webpage for FRE 474. Your syllabus, course-lecture slides, additional material, announcements, assignments, and grades will be available there and/or on Canvas.
+
+## Assessments of Learning
+
+Your performance in the class will be graded as follows:
+
+-   Class reflection submissions: 10%
+
+-   4 out of 5 take-home assignments: 40%
+
+-   2 out of 3 in-class assignments/quizzes: 20%
+
+-   A referee report: 10%
+
+-   Final project: 20%
+
+There will be 5 assignments for you to do, and your four highest grades in those assignments will count towards your grade. There will be 3 in-class assignments/quizzes that you will do either online, or in person as the term progresses. Your two highest grades on that will count towards your grade.
+
+[Participation Grade]{.underline}: You will have to come prepared to the class, and you will be expected to discuss the assigned material in class.
+
+Every two weeks you will submit on canvas a short reflection of the what you learnt in class in the previous fortnight. While writing this reflection you are required to relate something you learnt in class to the world around you. You can relate a topic from class something you read in the news, or something you experienced in life. The possibilities are up to you. The reflection cannot exceed 400 words, but can be shorter. If the reflection makes sense, it will be assigned 2 participation points, if submitted but hard to understand, it will get 1 participation point, and if not submitted will earn 0. There will be a recurring assignment on Canvas for you submit this reflection.
+
+[A Referee Report]{.underline}: Students will choose a paper from the syllabus and will write a two page report in which they: a) summarize the paper (half a page), b) highlight what the paper does well (half a page), and c) suggest improvements to their analysis of data in answering the question posed (one page). Academic papers outside of those listed in the syllabus can be chosen with permission.
+
+[Final project:]{.underline} More detail will be provided in the first two weeks of class (this part of the syllabus will be updated subsequently).
+
+The [assignments]{.underline} will be online and based on material from the lectures and readings. In-class assignments/quizzes will cover material in lectures and readings.
+
+## University Policies
+
+UBC provides resources to support student learning and to maintain healthy lifestyles but recognizes that sometimes crises arise and so there are additional resources to access including those for survivors of sexual violence. UBC values respect for the person and ideas of all members of the academic community. Harassment and discrimination are not tolerated nor is suppression of academic freedom. UBC provides appropriate accommodation for students with disabilities and for religious observances. UBC values academic honesty and students are expected to acknowledge the ideas generated by others and to uphold the highest academic standards in all of their actions.
+
+Details of the policies and how to access support are available on [the UBC Senate website](https://senate.ubc.ca/policies-resources-support-student-success).
+
+### Academic Accommodation for Students
+
+The University accommodates students with disabilities who have registered with the Disability Resource Centre. The University also accommodates students whose religious obligations conflict with attendance or scheduled tests or exams. Other absences for varsity athletics, family obligations or other similar commitments are not part of University policy and students should not assume that they would be accommodated. Academic accommodations help students with a disability or ongoing medical condition overcome challenges that may affect their academic success. Students requiring academic accommodations must register with Access and Diversity. A and D will determine that student's eligibility for accommodations in accordance with Policy 73: Academic Accommodation for Students with Disabilities. Your instructors do not determine academic accommodations, however, your instructor may consult with Access and Diversity should the accommodations affect the essential learning outcomes of a course. If you have a pressing issue those conflicts with an exam, you should discuss this with your instructor as soon as possible. Refer to the UBC Calendar for details of 'academic concession.'
+
+### Academic Integrity
+
+The academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity.
+
+At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required. This also means you should not cheat, copy, or mislead others about what is your work.
+
+Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed. For example, incidences of plagiarism or cheating may result in a mark of zero on the assignment or exam and more serious consequences may apply if the matter is referred to the President's Advisory Committee on Student Discipline. Careful records are kept in order to monitor and prevent recurrences.
+
+## Copyright
+
+All materials of this course (course handouts, lecture slides, assessments, course readings, etc.) are the intellectual property of the Course Instructor or licensed to be used in this course by the copyright owner. Redistribution of these materials by any means without permission of the copyright holder(s) constitutes a breach of copyright and may lead to academic discipline.
+
+*Version: Jan 5th, 2023*

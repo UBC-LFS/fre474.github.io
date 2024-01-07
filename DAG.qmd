@@ -1,0 +1,17 @@
+---
+title: "Directed Acyclic Graphs (DAG)"
+---
+
+We're going to do an exercise to draw a DAG.
+
+We're going to use [ggdag](https://cran.r-project.org/web/packages/ggdag/vignettes/intro-to-ggdag.html). Make sure you have the necessary packages installed.
+
+```{r}
+library(dagitty)
+library(ggdag)
+library(ggplot2)
+
+dag <- dagitty("dag{y <- z -> x}")
+ggdag(dag, layout = "circle")
+
+```
