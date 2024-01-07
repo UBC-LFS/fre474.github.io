@@ -10,10 +10,10 @@ UBC's Point Grey Campus is located on the traditional, ancestral, and unceded te
 
 ## Course Information
 
-|                                                                    |                        |                    |                  |
-|--------------------------------------------------------------------|------------------------|--------------------|------------------|
-| **Course Title**                                                   | **Course Code Number** | **Days and Times** | **Credit Value** |
-| Causal Inference in the Economics of Natural Resource Conservation | FRE 474                | TTh 10:30am-12pm   | 3                |
+|                                                                    |                        |                                 |                  |
+|--------------------------------|--------------|--------------|--------------|
+| **Course Title**                                                   | **Course Code Number** | **Days and Times**              | **Credit Value** |
+| Causal Inference in the Economics of Natural Resource Conservation | FRE 474                | TTh 10:30am-12pm, W 3:30-4:30pm | 3                |
 
 ## Description
 
