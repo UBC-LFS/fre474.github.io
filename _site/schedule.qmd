@@ -1,0 +1,6 @@
+---
+title: "Course Schedule"
+output: html_document
+---
+
+You can find the working schedule for this term (2023/24 W2) [here](https://docs.google.com/spreadsheets/d/11M5v30gOsW__1Uks8Gkexo6X_GS0U2BUlHVbNW7HJdo/edit?usp=sharing). We are still determining exact dates for assignments, data labs, etc., and will finalize the schedule in the coming weeks.
