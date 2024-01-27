@@ -6,22 +6,35 @@ editor: visual
 
 ## Acknowledgement
 
-UBC's Point Grey Campus is located on the traditional, ancestral, and unceded territory of the (Musqueam) people. The land it is situated on has always been a place of learning for the Musqueam people, who for millennia have passed on their culture, history, and traditions from one generation to the next on this site.
+UBC\'s Point Grey Campus is located on the traditional, ancestral, and unceded territory of the\
+xwməθkwəy̓əm (Musqueam) people. The land it is situated on has always been a place of learning for\
+the Musqueam people, who for millennia have passed on their culture, history, and traditions from one\
+generation to the next on this site
 
 ## Course Information
 
-|                                                                    |                        |                                 |                  |
-|--------------------------------|--------------|--------------|--------------|
-| **Course Title**                                                   | **Course Code Number** | **Days and Times**              | **Credit Value** |
-| Causal Inference in the Economics of Natural Resource Conservation | FRE 474                | TTh 10:30am-12pm, W 3:30-4:30pm | 3                |
++--------------------------------------------------------------------+------------------------+--------------------+------------------+
+| **Course Title**                                                   | **Course Code Number** | **Days and Times** | **Credit Value** |
++--------------------------------------------------------------------+------------------------+--------------------+------------------+
+| Causal Inference in the Economics of Natural Resource Conservation | FRE 474                | TTh 10:30am-12pm,  | 3                |
+|                                                                    |                        |                    |                  |
+|                                                                    |                        | W 3:30-4:30pm      |                  |
++--------------------------------------------------------------------+------------------------+--------------------+------------------+
 
 ## Description
 
-In this course we will learn how researchers use data to examine the economics of natural resource use. You will learn how one can 'infer' (in the statistical sense) the human (economic) 'cause' of natural resource use.
+In this course we will learn how researchers use data to examine the economics of natural resource use.\
+You will learn how one can \'infer\' (in the statistical sense) the human (economic) \'cause\' of natural\
+resource use.
 
-I will introduce empirical methods necessary to evaluate the causal impact of economic development and environmental policies on conservation outcomes, and subsequently illustrate the use of these techniques through in-class exercises and academic articles in the field of conservation.
+I will introduce empirical methods necessary to evaluate the causal impact of economic development\
+and environmental policies on conservation outcomes, and subsequently illustrate the use of these\
+techniques through in-class exercises, and academic articles in the field of conservation.
 
-We will focus on issues related to forests and wildlife. We will consider questions like: What are the drivers of species loss, and which environmental policies have been successful in halting it? Is there a trade-off between poverty alleviation and the conservation of charismatic species, coral reef, and/or tropical rainforests? Does endangered species legislation impact species conservation and employment?
+We will focus on issues related to forests and wildlife. We will consider questions like: What are the\
+drivers of species loss, and which environmental policies have been successful in halting it? Is there a\
+trade-off between poverty alleviation and the conservation of charismatic species, coral reefs, and/or\
+tropical rainforests? Does endangered species legislation impact species conservation, and employment?
 
 ## Prerequisites
 
@@ -209,8 +222,24 @@ At the most basic level, this means submitting only original work done by you an
 
 Violations of academic integrity (i.e., misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed. For example, incidences of plagiarism or cheating may result in a mark of zero on the assignment or exam and more serious consequences may apply if the matter is referred to the President's Advisory Committee on Student Discipline. Careful records are kept in order to monitor and prevent recurrences.
 
+## For International Students - Issue of controversial topics in online learning
+
+During this pandemic, the shift to online learning has greatly altered teaching and studying at UBC,\
+including changes to health and safety considerations. Keep in mind that some UBC courses might\
+cover topics that are censored or considered illegal by non-Canadian governments. This may include,\
+but is not limited to, human rights, representative government, defamation, obscenity, gender or\
+sexuality, and historical or current geopolitical controversies. If you are a student living abroad, you\
+will be subject to the laws of your local jurisdiction, and your local authorities might limit your access\
+to course material or take punitive action against you. UBC is strongly committed to academic\
+freedom, but has no control over foreign authorities (please visit\
+<http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,33,86,0> for an articulation of the values of\
+the University conveyed in the Senate Statement on Academic Freedom).\
+Thus, we recognize that students will have legitimate reason to exercise caution in studying certain\
+subjects. If you have concerns regarding your personal situation, consider postponing taking a course\
+with manifest risks, until you are back on campus or reach out to your academic advisor to find
+
 ## Copyright
 
 All materials of this course (course handouts, lecture slides, assessments, course readings, etc.) are the intellectual property of the Course Instructor or licensed to be used in this course by the copyright owner. Redistribution of these materials by any means without permission of the copyright holder(s) constitutes a breach of copyright and may lead to academic discipline.
 
-*Version: Jan 5th, 2023*
+*Version: Jan 7th, 2024*
